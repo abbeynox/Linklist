@@ -100,22 +100,3 @@ a.unavailable{
 a.featured:hover,a:hover{
   background-color:#cc1db869;
 }
-
-a.attention{
-  position:relative;
-  color:#ff0000;
-  font-weight:700;
-  border:2px solid #ff0000;
-}
-
-a.paused{
-  position:relative;
-  color:#FFC907;
-  font-weight:700;
-  border:2px solid #FFC907;
-}
-
-a.paused:hover{
-  color:rgb(250, 229, 153);
-}
-
